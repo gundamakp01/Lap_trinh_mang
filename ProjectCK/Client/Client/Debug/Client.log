@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  Client.cpp
+d:\codeltm\ltm20212\client\client\client.cpp(242): warning C4715: 'View1Proc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(165): warning C4715: 'WinMain': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(208): warning C4715: 'WndProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(302): warning C4715: 'LoginProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(375): warning C4715: 'RegisterProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(413): warning C4715: 'View2Proc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(582): warning C4715: 'CreateRoomProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(635): warning C4715: 'RoomProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(742): warning C4715: 'QuestionProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(523): warning C4715: 'ListRoomProc': not all control paths return a value
+d:\codeltm\ltm20212\client\client\client.cpp(777): warning C4715: 'ResultProc': not all control paths return a value
+  LINK : D:\CodeLTM\LTM20212\Client\Debug\Client.exe not found or not built by the last incremental link; performing full link
+  Client.vcxproj -> D:\CodeLTM\LTM20212\Client\Debug\Client.exe
+  Client.vcxproj -> D:\CodeLTM\LTM20212\Client\Debug\Client.pdb (Full PDB)
